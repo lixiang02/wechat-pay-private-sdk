@@ -1,0 +1,22 @@
+{
+  "name": "wechatpay-private-sdk",
+  "version": "3.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "@types/node": "^10.9.4",
+    "change-case": "^3.1.0",
+    "raw-body": "^2.3.3",
+    "request": "^2.88.0",
+    "xml2js": "^0.4.19"
+  },
+  "author": "lixiang920531",
+  "license": "ISC"
+}
